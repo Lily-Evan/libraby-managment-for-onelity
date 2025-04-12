@@ -41,5 +41,3 @@ src/
 
 
 📌 Notes
-
-💼 Made with ❤️ by Panagiota Grosdouli
